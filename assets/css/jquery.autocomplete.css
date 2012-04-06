@@ -1,8 +1,11 @@
 .ac_results {
-	padding: 0px;
-	border: 1px solid #7FB7FB;
-	overflow: hidden;
-  background-color: #AFD2FD;
+    background-color: #000000;
+    border: 2px solid red;
+    color: #fff;
+    margin-left: 10px;
+    margin-top: 5px;
+    overflow: hidden;
+    padding: 0;
 }
 
 .ac_results ul {
